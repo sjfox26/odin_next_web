@@ -160,6 +160,8 @@ body {
 .message-ribbon {
     background: #fd3;
     line-height: 30px;
+    padding-left: 18px;
+    font-size: 13px;
 }
 
 
